@@ -1,8 +1,10 @@
 .App {
+  margin-left: 30%;
   text-align: center;
   border-radius: 5px;
   background-color: #f2f2f2;
-  padding: 5px;
+  padding: 55px;
+  width:500px;
 }
 
 label {
@@ -10,7 +12,7 @@ label {
   display: inline-block;
 }
 .add-form {
-  width: 40%;
+  width: 100%;
 }
 input {
   width: 100%;

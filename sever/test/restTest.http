@@ -1,9 +1,6 @@
 GET http://localhost:3002//readAllContacts
 content-Type: application/json
 
-
-###
-
 POST  http://localhost:3002/addToContacts
 content-Type: application/json
 
@@ -11,7 +8,3 @@ content-Type: application/json
   "firstName": "gurvi" 
 
 }
-
-###
-
-DELETE  http://localhost:3002/deleteFromPlaylist/34
